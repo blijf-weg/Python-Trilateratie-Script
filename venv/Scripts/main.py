@@ -9,6 +9,7 @@ file1 = open("test.txt", "r+")
 stralen0 = []
 stralen1 = []
 stralen2 = []
+stralen3 = [] #dit gebruik ik niet, ik moest dit enkel even toevoegen om te kijken of git commit werkt
 
 fig= plt.figure(figsize=(7,7))
 def plot(metingen):
